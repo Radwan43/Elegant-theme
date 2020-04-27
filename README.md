@@ -1,4 +1,4 @@
-# Barber
+# Elegant
 Barber is a minimal blog theme built for Jekyll. The blog theme features a masonry grid, endless scrolling, and page transitions. 💈 Barber is also available for [Ghost](https://github.com/samesies/barber-ghost).
 
 ![Barber](https://raw.githubusercontent.com/samesies/barber-jekyll/master/barber.jpg "Barber")
@@ -29,29 +29,29 @@ Almost everything to personalize your site is in the ````_config.yml````.
 
 ```
 # Site/SEO settings
-email: okay@samesies.io
+email: 
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: 
+title: 
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  Elegant is a blog theme for Jekyll built by Mahmoud Radwan using HTML, Sass, and JavaScript.
 url: http://barber.samesies.io
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: 
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: 
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: 
   - name: github
-    url: https://github.com/samesies
+    url: 
   - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url:https://codepen.io/thomasvaeth/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -66,9 +66,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: 
+    bio:
+    url: 
 
 # Pagination settings
 pagination:
@@ -218,14 +218,3 @@ The source code is broken down to make finding what you need as easy as possible
 ```
 
 The CSS is written in Sass. The JavaScript is written in ES6, so your code is up to date with the newest standards.
-
-### Donations
-Barber has been released for free. Similar themes cost around $29 on [ThemeForest](https://themeforest.net/category/static-site-generators/jekyll). Any donations would be greatly appreciated after the work that went into releasing Barber.
-
-* PayPal – <https://www.paypal.me/samesies>
-* Bitcoin – 1PSzNmcfAFJY1PtBK5u9R5bTGfF7KAuLcq
-* Ethereum – 0x392F7116e4171F1D740397B6000EadD2e4bb9670
-* Litecoin – LSH9AnjcUTV5T7PUxXQuxPqb9W5aSR9GEP
-
-### Support
-Email <okay@samesies.io> if you need any additional support with Barber.
